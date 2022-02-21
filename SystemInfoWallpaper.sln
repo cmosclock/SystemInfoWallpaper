@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemInfoWallpaper", "SystemInfoWallpaper\SystemInfoWallpaper.csproj", "{B319DA92-3586-4BF2-9934-088A8C4D266B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B319DA92-3586-4BF2-9934-088A8C4D266B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B319DA92-3586-4BF2-9934-088A8C4D266B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B319DA92-3586-4BF2-9934-088A8C4D266B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B319DA92-3586-4BF2-9934-088A8C4D266B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
